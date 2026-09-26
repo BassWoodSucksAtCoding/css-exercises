@@ -39,7 +39,7 @@ body {
   padding:10px;
   display:flex;
   flex:1;
-  margin: 48px;
+  flex-basis: 300px;
 }
 
 .sidebar {
